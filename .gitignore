@@ -1,0 +1,15 @@
+# DBeaver
+.dbeaver/
+*.dbeaver-data-sources.xml
+
+# PostgreSQL
+*.backup
+*.dump
+
+# Operating system
+Thumbs.db
+Desktop.ini
+
+# Environment / secrets
+.env
+.env.*
